@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-u17493.indowin.cfd/sitemap.xml
